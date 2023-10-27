@@ -164,18 +164,18 @@ html,body{
 #onespan{
     width: 80px;
     height: 40px;
-    background: url('/images/bluegirl.jpg') no-repeat center center/cover ;
+    background: url('bluegirl.jpg') no-repeat center center/cover ;
     
 }
 #twospan{
-    background: url('/images/shaljam.jpg') no-repeat center center/cover ;
+    background: url('shaljam.jpg') no-repeat center center/cover ;
     width: 60px;
     height: 40px;
 }
 #threespan{
     width: 80px;
     height: 40px;
-    background: url('/images/grass.jpg') no-repeat center center/cover ;
+    background: url('grass.jpg') no-repeat center center/cover ;
 }
 
 /* <----- Motive Section  ends  here -----> */
